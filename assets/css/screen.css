@@ -194,7 +194,7 @@ production stylesheet in assets/built/screen.css
     display: flex;
     align-items: center;
     height: 40px;
-    max-width: 200px;
+    /* max-width: 200px; */
     text-align: center;
     word-break: break-all;
 }
